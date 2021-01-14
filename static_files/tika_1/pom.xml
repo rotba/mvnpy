@@ -467,7 +467,7 @@
 			<artifactId>poi</artifactId>
 			
       
-			<version>3.0-FINAL</version>
+			<version>3.17</version>
 			
     
 		</dependency>
